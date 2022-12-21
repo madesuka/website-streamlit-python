@@ -76,7 +76,6 @@ with st.container():
             Website PT TUS dibuat dengan frame work Laravel didalam website tersebut terdapat web aplikasi tentang sistem admin inventory pengelolaan kegiatan usaha
             """
         )
-         st.markdown("[Tonton Video Kedai Kosim](https://www.youtube.com/watch?v=ItFJDgV0Mbk&t=24s)")
         
 with st.container():
     image_column, text_column = st.columns((1, 2))
