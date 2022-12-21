@@ -33,7 +33,7 @@ with st.container():
     st.subheader("Hi, Apa khabar perkenalkan saya Mbahde :wave:")
     st.title("Asisten teknis komputer  PT Thaufiq Unun Sejahtera")
     st.write(
-        " Nama lengkap Ir.Made Sukawardika Dipl.SE, sebagai pengrajin IT yg telah puluhan tahun bergelut dengan berbagai teknis informasi hari ini akan sharing khusus tentang Framework PHP Laravel dan wawasan web programing terkini lainnya."
+        " Nama lengkap Ir.Made Sukawardika Dipl.SE, sebagai pengrajin IT yg telah puluhan tahun bergelut dengan berbagai teknis informasi  akan sharing khusus tentang Framework PHP Laravel dan wawasan web programing terkini lainnya."
     )
     st.write("[www.pttus.co.id ](https://pttus.co.id)")
 
