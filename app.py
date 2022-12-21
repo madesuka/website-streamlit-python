@@ -49,8 +49,10 @@ with st.container():
             Dalam pengenalan program web aplikasi dan pembuatan website meliputi:
             1. Setting Laptop
             2. Download dan Install Program yang dibutuhkan
-            3. Pengenalan VC , PHP , HTML ,CSS, Bootstrap,Laravel ,Gitbush
+            3. Pengenalan VC , PHP , HTML ,CSS, Bootstrap,Laravel ,Gitbush,Python,Streamlit
             4. Download thema bootstrap untuk pembuatan website Laravel
+            5. Pembuatan website dengan Framework Laravel
+            6. Latihan Deploy website atau upload ke C Panel
 
             Bila para peserta sbg kelanjutannya ingin berkomunikasi bertanya dapat menghubungi hp : 085234100496 dan email : sukawardika@gmail.com
             """
@@ -100,10 +102,10 @@ with st.container():
     <form action="https://formsubmit.co/sukawardika@gmail.com" method="POST">
         <input type="hidden" name="_captcha" value="false">
         <input type="text" name="name" placeholder="Nama lengkap" required>
-        <input type="email" name="email" placeholder=" Alamat email" required>
+        <input type="email" name="email" placeholder=" Alamat email yang masih aktip" required>
          <input type="text" name="tlp" placeholder=" Nomor HP" required>
         <textarea name="message" placeholder="Tulis pesan anda secara jelas" required></textarea>
-        <button type="submit">Send</button>
+        <button type="submit">Kirim</button>
     </form>
     """
     left_column, right_column = st.columns(2)
