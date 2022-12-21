@@ -43,9 +43,8 @@ watchdog==2.1.8
   * Stop debugging with Shift-F5
 
 ## Author
-* Sven from Coding Is Fun
-* YouTube: https://youtube.com/c/CodingIsFun
-* Website: https://pythonandvba.com
+* Ir. Made Sukawardika Dipl.SE
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X47Q0EG)
 
