@@ -76,7 +76,7 @@ with st.container():
             Website PT TUS dibuat dengan frame work Laravel didalam website tersebut terdapat web aplikasi tentang sistem admin inventory pengelolaan kegiatan usaha
             """
         )
-         st.write("[www.pttus.co.id ](https://pttus.co.id)")
+        
         
 with st.container():
     image_column, text_column = st.columns((1, 2))
@@ -90,7 +90,7 @@ with st.container():
             """
         )
         st.markdown("[Tonton Video Dokter Caput](https://www.youtube.com/watch?v=2sjGho5CX1o)")
-        st.write("[www.pttus.co.id ](https://doktercaput.com)")
+        
 # ---- CONTACT ----
 with st.container():
     st.write("---")
