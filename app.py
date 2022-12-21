@@ -42,7 +42,7 @@ with st.container():
     st.write("---")
     left_column, right_column = st.columns(2)
     with left_column:
-        st.header("Rencana Pelatihan")
+        st.header("Rencana Pelatihan Januari 2023 di Kedai Kopi Siang Malam Kertosono Nganjuk")
         st.write("##")
         st.write(
             """
