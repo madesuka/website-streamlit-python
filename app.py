@@ -101,6 +101,7 @@ with st.container():
         <input type="hidden" name="_captcha" value="false">
         <input type="text" name="name" placeholder="Nama lengkap" required>
         <input type="email" name="email" placeholder=" Alamat email" required>
+         <input type="tlp" name="tlp" placeholder=" Nomor HP" required>
         <textarea name="message" placeholder="Tulis pesan anda secara jelas" required></textarea>
         <button type="submit">Send</button>
     </form>
