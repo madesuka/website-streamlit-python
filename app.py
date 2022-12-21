@@ -94,7 +94,7 @@ with st.container():
 # ---- CONTACT ----
 with st.container():
     st.write("---")
-    st.header("Silahkan sampaikan daftar melalui form pesan ini!")
+    st.header("Silahkan daftar melalui form pesan ini!")
     st.write("##")
 
     # Documention: https://formsubmit.co/ !!! CHANGE EMAIL ADDRESS !!!
