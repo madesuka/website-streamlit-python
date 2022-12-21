@@ -9,8 +9,7 @@ Create a personal website using Python and the Streamlit library. This website w
 📢 https://share.streamlit.io/sven-bo/personal-website-streamlit/app.py
 
 ## Screenshots
-![Screenshots](/demo/screenshot1.jpg?raw=true)
-![Screenshots](/demo/screenshot2.jpg?raw=true)
+
 
 
 
