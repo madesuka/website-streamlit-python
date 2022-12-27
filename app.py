@@ -30,10 +30,10 @@ img_lottie_animation = Image.open("images/seminar.jpeg")
 
 # ---- HEADER SECTION ----
 with st.container():
-    st.subheader("Hi, Apa khabar perkenalkan saya Mbahde :wave:")
-    st.title("Asisten teknis komputer  PT Thaufiq Unun Sejahtera")
+    st.subheader("Segera daftarkan diri anda :wave:")
+    st.title("Seminar Digital Bisnis dan Web Programing")
     st.write(
-        " Nama lengkap Ir.Made Sukawardika Dipl.SE, sebagai pengrajin IT yg telah puluhan tahun bergelut dengan berbagai teknis informasi  akan sharing khusus tentang Framework PHP Laravel dan wawasan web programing terkini lainnya."
+        " Kesempatan menambah pengetahuan untuk life skill dan wawasan teknologi digital"
     )
     st.write("[www.pttus.co.id ](https://pttus.co.id)")
 
