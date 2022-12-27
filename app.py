@@ -46,13 +46,10 @@ with st.container():
         st.write("##")
         st.write(
             """
-            Dalam pengenalan program web aplikasi dan pembuatan website meliputi:
-            1. Setting Laptop
-            2. Download dan Install Program yang dibutuhkan
-            3. Pengenalan VC , PHP , HTML ,CSS, Bootstrap,Laravel ,Gitbush,Python,Streamlit
-            4. Download thema bootstrap untuk pembuatan website Laravel
-            5. Pembuatan website dengan Framework Laravel
-            6. Latihan Deploy website atau upload ke C Panel
+            Seminar dapat diikuti secara online dan offline di Kedai Kosim Kertosono mulai pukul 09.00 W.I.B
+            dengan ketentuan :
+            HTM offline : Rp. 75.000 (include snack dan coffe break)
+            HTM Online  : Rp. 50.000 (include voucer kedai Kosim)
 
           
             """
