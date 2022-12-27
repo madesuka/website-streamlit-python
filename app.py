@@ -33,7 +33,7 @@ with st.container():
     st.subheader("Segera daftarkan diri anda :wave:")
     st.title("Seminar Digital Bussiness dan Web Programing")
     st.write(
-        " Life Skill and workshop pembuatan website dengan teknologi Framework Laravel."
+        " Life Skill and workshop pembuatan website dengan teknologi Framework Laravel bersama Gautama S.W ,MBA dan Ir.Made Sukawardika Dipl.SE."
     )
     st.write("[www.pttus.co.id ](https://pttus.co.id)")
 
