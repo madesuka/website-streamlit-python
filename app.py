@@ -33,7 +33,7 @@ with st.container():
     st.subheader("Segera daftarkan diri anda :wave:")
     st.title("Seminar Digital Bisnis dan Web Programing")
     st.write(
-        " Seminar dan life skill dan wawasan teknologi digital digagas oleh PT TUS dan Kedai Kosim dengan nara sumber Gautama dan Made Sukawardika
+        " Seminar dan life skill dan wawasan teknologi 
           "
     )
     st.write("[www.pttus.co.id ](https://pttus.co.id)")
