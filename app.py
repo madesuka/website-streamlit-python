@@ -29,14 +29,7 @@ img_contact_form = Image.open("images/kosim1.jpg")
 img_lottie_animation = Image.open("images/seminar.jpeg")
 
 # ---- HEADER SECTION ----
-with st.container():
-    st.subheader("Segera daftarkan diri anda :wave:")
-    st.title("Seminar Digital Bisnis dan Web Programing")
-    st.write(
-        " Seminar dan life skill dan wawasan teknologi 
-          "
-    )
-    st.write("[www.pttus.co.id ](https://pttus.co.id)")
+
 
 # ---- WHAT I DO ----
 with st.container():
