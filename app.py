@@ -87,13 +87,13 @@ with st.container():
     with image_column:
         st.image(img_contact_form)
     with text_column:
-        st.subheader("Website tentang calon Bupati Kabupaten Buleleng Bali www.doktercaput.com ")
+        st.subheader("Kedai Kopi Siang Malam Kertosono Nganjuk Jawa Timur ")
         st.write(
             """
-            Website ini memuat aplikasi database calon konstituen dan berbagai dokumentasi kegiatan selama kandidat ini bersosialisasi,website ini sedikit lebih kompleks juga dibuat dengan framework Laravel.
+            Kedai Kosim Kertosono 
             """
         )
-        st.markdown("[Tonton Video Dokter Caput](https://www.youtube.com/watch?v=2sjGho5CX1o)")
+        st.markdown("[Kedai Kosim](https://www.youtube.com/watch?v=ItFJDgV0Mbk&t=26s)")
         
 # ---- CONTACT ----
 with st.container():
