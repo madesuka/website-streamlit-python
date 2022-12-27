@@ -42,7 +42,7 @@ with st.container():
     st.write("---")
     left_column, right_column = st.columns(2)
     with left_column:
-        st.header("Rencana Pelatihan Januari 2023 di Kedai KOSIM Kertosono Nganjuk")
+        st.header("Rencana Pelatihan 27 dan 28 Januari 2023 di Kedai KOSIM Kertosono Nganjuk")
         st.write("##")
         st.write(
             """
@@ -54,7 +54,7 @@ with st.container():
             5. Pembuatan website dengan Framework Laravel
             6. Latihan Deploy website atau upload ke C Panel
 
-            Bila para peserta sbg kelanjutannya ingin berkomunikasi bertanya dapat menghubungi hp : 085234100496 dan email : sukawardika@gmail.com
+          
             """
         )
        
