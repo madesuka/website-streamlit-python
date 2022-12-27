@@ -26,7 +26,7 @@ local_css("style/style.css")
 # ---- LOAD ASSETS ----
 lottie_coding = load_lottieurl("https://assets5.lottiefiles.com/packages/lf20_fcfjwiyb.json")
 img_contact_form = Image.open("images/caput.png")
-img_lottie_animation = Image.open("images/tus1.png")
+img_lottie_animation = Image.open("images/seminar.jpeg")
 
 # ---- HEADER SECTION ----
 with st.container():
@@ -70,10 +70,15 @@ with st.container():
     with image_column:
         st.image(img_lottie_animation)
     with text_column:
-        st.subheader("Website PT Thaufiq Unun Sejahtera www.pttus.co.id")
+        st.subheader("Seminar Web Programming")
         st.write(
             """
-            Website PT TUS dibuat dengan frame work Laravel didalam website tersebut terdapat web aplikasi tentang sistem admin inventory pengelolaan kegiatan usaha
+            Seminar dan workshop pembuatan website dengan bahasa pemrograman Framework PHP Laravel,
+            meliputi teori dasar dan praktek pemuatan website sederhana, dan latihan deploy ke cpanel domain hosting :
+            1. Modul dasar pemrograman dan setting lingkungan pemrograman
+            2. Prosedur dasar pembuatan web aplikasi
+            3. Pengembangan website dengan thema gratis download
+            4. Uji coba prosedur deploy atau upload web aplikasi Laravel ke share hosting atau C Panel
             """
         )
         
