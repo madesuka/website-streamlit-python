@@ -100,10 +100,11 @@ with st.container():
     contact_form = """
     <form action="https://formsubmit.co/sukawardika@gmail.com" method="POST">
         <input type="hidden" name="_captcha" value="false">
-        <input type="text" name="name" placeholder="Nama lengkap" required>
-        <input type="email" name="email" placeholder=" Alamat email yang masih aktip" required>
-         <input type="text" name="tlp" placeholder=" Nomor HP" required>
-        <textarea name="message" placeholder="Tulis pesan anda secara jelas" required></textarea>
+        <input type="text" name="Nama" placeholder="Nama lengkap" required>
+        <input type="email" name="Email" placeholder=" Email yang masih aktip" required>
+        <input type="text" name="Telephone" placeholder=" Nomor HP" required>
+        <input type="text" name="Tanggal Sesi" placeholder=" Ketik Tanggal sesi yg diikuti 27 atau 28 Januari 2023" required>
+        <textarea name="Alamat" placeholder=" Alamat lengkap  secara jelas" required></textarea>
         <button type="submit">Kirim</button>
     </form>
     """
