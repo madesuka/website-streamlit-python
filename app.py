@@ -50,6 +50,9 @@ with st.container():
             dengan ketentuan :
             HTM offline : Rp. 75.000 (include snack dan coffe break)
             HTM Online  : Rp. 50.000 (include voucer kedai Kosim)
+            Sertifikat keikut sertaan seminar dengan keterampilan dasar web programing website Laravel 
+            Bimbingan Konsultasi pembuatan website bila telah memiliki domain hosting sendiri
+            Keanggotaan Komunitas Laravel Jawa Timur
 
           
             """
