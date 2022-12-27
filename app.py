@@ -90,10 +90,11 @@ with st.container():
         st.subheader("Kedai Kopi Siang Malam Kertosono Nganjuk Jawa Timur ")
         st.write(
             """
-            Kedai Kosim Kertosono 
+            Kedai Kosim Kertosono pelopor cafe masakini, yang menyajikan minuman dan makanan yang berkualitas dan menjadi
+            tempat bukan sekedar nongkrong tetapi sekaligus meningkatkan pengetahuan 
             """
         )
-        st.markdown("[Kedai Kosim](https://www.youtube.com/watch?v=ItFJDgV0Mbk&t=26s)")
+        st.markdown("[Tonton Kedai Kosim](https://www.youtube.com/watch?v=ItFJDgV0Mbk&t=26s)")
         
 # ---- CONTACT ----
 with st.container():
