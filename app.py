@@ -64,7 +64,7 @@ with st.container():
 # ---- PROJECTS ----
 with st.container():
     st.write("---")
-    st.header(" Website Laravel portofolio :")
+    st.header(" Even Community Laravel Jatim :")
     st.write("##")
     image_column, text_column = st.columns((1, 2))
     with image_column:
