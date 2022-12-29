@@ -106,6 +106,7 @@ with st.container():
     contact_form = """
     <form method="POST" action="https://formsubmit.co/sukawardika@gmail.com" enctype="multipart/form-data">
         <input type="hidden" name="_captcha" value="false">
+        <input type="text" name=" Nama" placeholder=" Nama Lengkap" required>
         <input type="email" name="Email" placeholder=" Email yang masih aktip" required>
         <input type="text" name="Telephone" placeholder=" Nomor HP" required>
         <input type="text" name="Tanggal Sesi" placeholder=" Ketik Tanggal sesi yg diikuti 27 atau 28 Januari 2023" required>
