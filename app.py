@@ -99,19 +99,19 @@ with st.container():
 # ---- CONTACT ----
 with st.container():
     st.write("---")
-    st.header("Silahkan daftar melalui form pesan ini!")
+    st.subheader("Silahkan daftar melalui form pesan ini,lampirkan foto bukti transfernya!")
     st.write("##")
 
     # Documention: https://formsubmit.co/ !!! CHANGE EMAIL ADDRESS !!!
     contact_form = """
-    <form action="https://formsubmit.co/sukawardika@gmail.com" method="POST">
+    <form method="POST" action="https://formsubmit.co/sukawardika@gmail.com" enctype="multipart/form-data">
         <input type="hidden" name="_captcha" value="false">
-        <input type="text" name="Nama" placeholder="Nama lengkap" required>
         <input type="email" name="Email" placeholder=" Email yang masih aktip" required>
         <input type="text" name="Telephone" placeholder=" Nomor HP" required>
         <input type="text" name="Tanggal Sesi" placeholder=" Ketik Tanggal sesi yg diikuti 27 atau 28 Januari 2023" required>
         <textarea name="Alamat" placeholder=" Alamat lengkap  secara jelas" required></textarea>
-        <button type="submit">Kirim</button>
+        <input type="file" name="attachment" accept="image/png, image/jpeg">
+        <button type="submit">Send /Kirim</button>
     </form>
     """
     left_column, right_column = st.columns(2)
