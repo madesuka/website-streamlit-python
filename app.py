@@ -42,7 +42,7 @@ with st.container():
     st.write("---")
     left_column, right_column = st.columns(2)
     with left_column:
-        st.subheader("Rencana Pelatihan 27 dan 28 Januari 2023 di Kedai KOSIM Kertosono Nganjuk")
+        st.subheader("Pelatihan Gelombang Petama  27 dan 28 Januari 2023 di Kedai KOSIM Kertosono Nganjuk Jawa Timur")
         st.write("##")
         st.write(
             """
@@ -53,6 +53,7 @@ with st.container():
             Sertifikat keikut sertaan seminar dengan keterampilan dasar web programing website Laravel 
             Bimbingan Konsultasi pembuatan website bila telah memiliki domain hosting sendiri
             Keanggotaan Komunitas Laravel Jawa Timur
+            Ditransfer ke rek Made Sukawardika BCA 0900881070 , lampirkan bukti transfer pada form pendaftaran
 
           
             """
