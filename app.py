@@ -53,7 +53,7 @@ with st.container():
             Sertifikat keikut sertaan seminar dengan keterampilan dasar web programing website Laravel 
             Bimbingan Konsultasi pembuatan website bila telah memiliki domain hosting sendiri
             Keanggotaan Komunitas Laravel Jawa Timur
-            Ditransfer ke rek Made Sukawardika BCA 0900881070 , lampirkan bukti transfer pada form pendaftaran
+            HTM ditransfer ke rekening Made Sukawardika BCA 0900881070 , lampirkan bukti transfer pada form pendaftaran sesuai dengan pilihan online atau offline
 
           
             """
