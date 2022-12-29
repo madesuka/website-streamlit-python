@@ -111,6 +111,7 @@ with st.container():
         <input type="email" name="Email" placeholder=" Email yang masih aktip" required>
         <input type="text" name="Telephone" placeholder=" Nomor HP" required>
         <input type="text" name="Tanggal Sesi" placeholder=" Ketik Tanggal sesi yg diikuti 27 atau 28 Januari 2023" required>
+        <input type="text" name="Kelas " placeholder=" ketik pilihan online atau offline" required>
         <textarea name="Alamat" placeholder=" Alamat lengkap  secara jelas" required></textarea>
         <input type="file" name="attachment" accept="image/png, image/jpeg">
         <button type="submit">Send /Kirim</button>
